@@ -1,36 +1,19 @@
 ---
 layout: post
-title:  "A Center for Decentralization"
-date:   2015-10-01 12:55:04
-categories: Decentralized Web
+title:  "Hello World"
+date:   2016-18-05 01:09:04
+categories: General
 ---
 
-People from the Internet,
-I will make this very simple,
-we live in a strange web.
+Hello world,
+hello again.
 
-Data is not yours,
-services don’t interoperate,
-you are locked in very many walled-garden,
-there is someone in the middle of your interactions,
-(actually, every time the same folks)
-web pages disappear/die every 100 days,
-Online identity - what the heck is even that?
+It's not the first time I renew, restart, reload my blog {% sidenote 1 'See [old.virginialonso.com](http://old.virginialonso.com)' %}, and it probably won't be the last.
 
-[breath]
-
-At the same time,
-Internet connection got better,
-our computers much faster
-our devices are all connected,
-storage is cheap.
-
-Why don’t we - society, individuals and companies - start to build technologies that take advantage of this?
-
-Let’s bring decentralization{% sidenote 2 'Read about my principle for a [Decentralized Web](http://nicola.io/decentralized-principles/2015/)' %} at the center of attention.
+After a while without posting, I'm coming back with new ideas, new inspirations, and new goals. I will be drawing, I will be thinking aloud, and I will be learning.
 
 --
 
-Now, in practice, I haven't started a center{% sidenote 1 'yet.' %}. I like to call the meetings that we are starting in Boston with the name "Center for Decentralization" (every other Friday at 4:30 at the Berkman Center/MIT).
+A lot has happened in the past year: I finished my studies, I started my new role, I've been drawing more and I'll soon be starting a new language. For once, I'd like to capture all these big changes somewhere and my mind feels transient so this new blog seems like the right companion.
 
-Do get in touch [@nicolagreco](http://twitter.com/nicolagreco)
+Hasta pronto!

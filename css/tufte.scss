@@ -123,7 +123,7 @@ header > nav  a{
   font-family: $sans-font;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: #e67e22;
+  color: #f1c40f;
   padding-top: 1.5rem;
   text-decoration: none;
   display: inline-block;
@@ -158,7 +158,7 @@ body > footer ul li a{
 .credits{
   font-family: $sans-font;
     & a{
-      color: #e67e22;
+      color: #f1c40f;
     }
 }
 
@@ -256,7 +256,7 @@ p, article  ul li, pre code, pre code p, code{
 
 
 a, .marginnote a, .sidenote a{
-  color: #e67e22;
+  color: #f1c40f;
   background-color: rgba(102, 204, 255, 0.07);
   padding: 0px 1px;
   border-bottom-width: 1px;
@@ -354,7 +354,7 @@ h6, .smaller, [id^="fn:"] > p, ol > [id^="fn:"] {
       line-height: 1.63333333333; 
     }
 ol > [id^="fn:"]{
-  color: #e67e22;
+  color: #f1c40f;
   & p{
     color: $text-color;
   }
@@ -364,7 +364,7 @@ h6 {
       font-style: italic;
 }
 .contrast {
-      color: #e67e22;
+      color: #f1c40f;
 }    
 div.footnotes{
   margin-bottom: 1.4rem;
@@ -406,7 +406,7 @@ a.url, .sidenote a { text-decoration: none;
 
 
 sup.sidenote-number {      
-  color: lighten(#e67e22, 15%);
+  color: lighten(#f1c40f, 15%);
 }
 
 span.newthought { 
@@ -503,7 +503,7 @@ span.newthought {
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  color: #e67e22;
+  color: #f1c40f;
 
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
